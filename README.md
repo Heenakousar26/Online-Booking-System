@@ -181,8 +181,8 @@ The application is deployed using **Render**, with the frontend and backend host
 
 ## 👩‍💻 Contributors
 
-* **SHAIK BABA SHAREEF**
 * **KOLIMI HEENA KOUSAR**
+* **SHAIK BABA SHAREEF**
 
 ---
 
